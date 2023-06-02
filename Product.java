@@ -1,4 +1,4 @@
-package homework;
+package Prac;
 
 class Product extends Menu {
     private double price;
